@@ -1,0 +1,25 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "douban.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "echarts": "^3.4.0",
+    "request": "^2.79.0",
+    "webpack": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "im",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "commit"
+  },
+  "keywords": [
+    "yes"
+  ]
+}
